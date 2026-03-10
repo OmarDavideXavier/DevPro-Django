@@ -7,5 +7,6 @@ urlpatterns = [
    path('portao', views.portao),
    path('sala', views.sala),
    path('quarto', views.quarto),
+   path('post_list', views.post_list),
   
 ]
